@@ -1,31 +1,149 @@
-<h1 align="center">Hi 👋, I'm Tushar Chaudhari</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharchaudhari5435&label=Profile%20views&color=0e75b6&style=flat" alt="tusharchaudhari5435" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharchaudhari5435" alt="tusharchaudhari5435" /></a> </p>
+```ascii
+████████╗   ██╗   ██╗   ███████╗   ██╗  ██╗   █████╗   ██████╗ 
+╚══██╔══╝   ██║   ██║   ██╔════╝   ██║  ██║   ██╔══██╗   ██╔══██╗
+   ██║      ██║   ██║   ███████╗   ███████║   ███████║   ██████╔╝
+   ██║      ██║   ██║   ╚════██║   ██╔══██║   ██╔══██║   ██╔══██╗
+   ██║      ╚██████╔╝   ███████║   ██║  ██║   ██║  ██║   ██║  ██║
+   ╚═╝       ╚═════╝    ╚══════╝   ╚═╝  ╚═╝   ╚═╝  ╚═╝   ╚═╝  ╚═╝
+```
 
-- 🔭 I’m currently working on [Chatbot-Project](https://github.com/TusharChaudhari5435/Chatbot-Project)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Tushar Karbhari Chaudhari** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 🌱 I’m currently learning **MERN Full Stack Web Development , DSA**
+### 🚀 MERN Stack Developer | Problem Solver 
 
-- 👯 I’m looking to collaborate on [Ecommerce-Project](https://github.com/TusharChaudhari5435/Ecommerce-Project)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Full+Stack+Projects;Learning+by+Doing" /> <img src="https://komarev.com/ghpvc/?username=Tushar-Chaudhari&label=Profile%20Views&color=00d9ff&style=for-the-badge" /> </div>
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="250" />
 
-- 💬 Ask me about **React**
+## 🎯 **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
 
-- 📫 How to reach me **chaudharit8872gmail.com**
+```javascript
+class Tushar {
+  constructor() {
+    this.code = ["JavaScript", "C", "C++"];
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@tusharf60935876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tusharf60935876" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar chaudhari" height="30" width="40" /></a>
-<a href="https://fb.com/tushar chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar chaudhari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@gwtushar2gb515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gwtushar2gb515" height="30" width="40" /></a>
+    this.technologies = {
+      frontEnd: ["React", "HTML5", "CSS3", "React", "Javascript"],
+      backEnd: ["Node.js", "Express.js"],
+      databases: ["MongoDB"],
+      tools: ["Git", "GitHub", "Postman", "VS Code"],
+      hardware: ["Arduino", "ESP32"]
+    };
+
+    this.currentFocus = "Building scalable MERN stack web applications";
+    this.challenge = "Strengthening backend architecture and problem-solving skills";
+    this.portfolio = "Coming soon";
+  }
+}
+
+const tushar = new Tushar();
+export default tushar;
+```
+
+- 🌱 I'm currently learning more about **MERN Stack Development, Open Source, and Data Structures and Algorithms.**
+- 👯 I'm looking to collaborate on **Projects based on React, Nextjs and Javascript.**
+- 🏆 Goal: **Contribute more to open-source projects.**
+- 💬 Ask me about **Frontend Development, DSA, MERN Stack Development, React Framework**
+- 📫 How to reach me: **chaudharit887@gmail.com**
+- ⚡ **Would love to connect with like-minded people.**
+
+---
+
+## 🌐 **Connect With Me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-chaudhari-12b208290)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TusharF60935876)
+
+
+</div>
+
+---
+
+## 🛠️ **Technology Stack** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+
+<div align="center">
+
+### **Core Languages** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Frontend Development** <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25px"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" title="TailwindCSS"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharchaudhari5435&show_icons=true&locale=en&layout=compact" alt="tusharchaudhari5435" /></p>
+### **Backend & Frameworks** <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25px"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharchaudhari5435&show_icons=true&locale=en" alt="tusharchaudhari5435" /></p>
+### **Database & Cloud Services** <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="25px"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB"/>
+</p>
+
+### **Development Tools** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code"/>
+</p>
+
+</div>
+
+---
+
+## 📊 **GitHub Statistics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+
+<div align="center">
+  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TusharChaudhari5435&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharChaudhari5435&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+  
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChaudhari5435&layout=compact&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharChaudhari5435&theme=radical" />
+
+</div>
+
+---
+
+## 📈 **Contribution Activity** <img src="https://media.giphy.com/media/cIn5fTcjsG5nq2KcmB/giphy.gif" width="35px"/>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharChaudhari5435&custom_title=Tushar%20Chaudhari's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00d9ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+
+</div>
+
+
+### 💫 **"Code is poetry written in logic"** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50px"/>
+
+**Thanks for visiting! Let's build something extraordinary together!** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"/>
+
+</div>
