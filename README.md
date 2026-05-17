@@ -15,7 +15,7 @@
 
 ### 🚀 Full Stack Developer | Problem Solver 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Full+Stack+Projects;Learning+by+Doing" /> <img src="https://komarev.com/ghpvc/?username=Tushar-Chaudhari&label=Profile%20Views&color=00d9ff&style=for-the-badge" /> </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Full+Stack+Projects;Learning+by+Doing" /> <img src="https://komarev.com/ghpvc/?username=Tushar-Chaudhari&label=Profile%20Views&color=00d9ff&style=for-the-badge" /> </div>
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="250" />
 
 ## 🎯 **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
