@@ -13,7 +13,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Tushar Karbhari Chaudhari** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 🚀 MERN Stack Developer | Problem Solver 
+### 🚀 Full Stack Developer | Problem Solver 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Full+Stack+Projects;Learning+by+Doing" /> <img src="https://komarev.com/ghpvc/?username=Tushar-Chaudhari&label=Profile%20Views&color=00d9ff&style=for-the-badge" /> </div>
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="250" />
@@ -43,10 +43,10 @@ const tushar = new Tushar();
 export default tushar;
 ```
 
-- 🌱 I'm currently learning more about **MERN Stack Development, Open Source, and Data Structures and Algorithms.**
+- 🌱 I'm currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
 - 👯 I'm looking to collaborate on **Projects based on React, Nextjs and Javascript.**
 - 🏆 Goal: **Contribute more to open-source projects.**
-- 💬 Ask me about **Frontend Development, DSA, MERN Stack Development, React Framework**
+- 💬 Ask me about **Frontend Development, DSA, Full Stack Development, React Framework**
 - 📫 How to reach me: **chaudharit887@gmail.com**
 - ⚡ **Would love to connect with like-minded people.**
 
